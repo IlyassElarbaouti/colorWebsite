@@ -1,12 +1,26 @@
+/*basic styling*/
+
+
 *{padding: 0;
 margin:0;
 box-sizing: border-box;}
+
+
+
+
+
 #header{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 20vh;
 }
+
+
+
+/*colors*/
+
+
 .red{
     background-color: crimson;
     color: whitesmoke;
